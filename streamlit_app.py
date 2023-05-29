@@ -34,6 +34,5 @@ streamlit.dataframe(fruityvice_normalized)
 
 #requirements.txt
 import snowflake.connector
-charset-normalizer==2.0.12
 
 snowflake-connector-python==2.7.9
